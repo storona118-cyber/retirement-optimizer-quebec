@@ -1,0 +1,5 @@
+your-project-folder/
+├── app.py              # Main application code
+├── requirements.txt    # Dependencies
+├── README.md          # Optional but recommended
+└── .gitignore         # Optional but recommended
